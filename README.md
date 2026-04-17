@@ -4,7 +4,7 @@ This is a C# console application that demonstrates a CRUD system using the 3-Tie
 
 ## Features
 
-* Create, Read, Update, Delete operations
+* Create, Read, Update, Delete , Find operations
 * Separation of concerns using:
 
   * Presentation Layer
