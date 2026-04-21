@@ -60,23 +60,6 @@ The project uses a SQL Server database with a `Countries` table containing:
 * Handling basic CRUD operations
 
 ---
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/7Mood1425/csharp-3tier-crud.git
-   ```
-
-2. Open the project in Visual Studio
-
-3. Update the connection string in:
-
-   ```csharp
-   clsDataAccessSettings.ConnectionString
-   ```
-
 ## 📬 Contact
 
 Feel free to connect or give feedback!
